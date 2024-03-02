@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-package",
+  "version": "1.0.0",
+  "description": "example node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thammasok/simple-node-package.git"
+  },
+  "keywords": [
+    "example",
+    "node",
+    "package"
+  ],
+  "author": "Thammasok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thammasok/simple-node-package/issues"
+  },
+  "homepage": "https://github.com/Thammasok/simple-node-package#readme"
+}
